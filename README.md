@@ -2,7 +2,7 @@
 📱 Screentime App Usage Analysis
 This project performs an Exploratory Data Analysis (EDA) on a dataset that tracks mobile application usage over time. It visualizes how much time users spend on different apps, how often they open them, and how many notifications they receive. The analysis aims to uncover usage patterns and correlations between app engagement and user attention.
 
-🔍 Overview
+# Overview
 Using Python, along with Pandas, NumPy, and Plotly, the analysis includes:
 
 Data loading and inspection
@@ -24,15 +24,15 @@ Bar charts showing usage time, notifications, and open counts per app
 
 Scatter plot with regression trendline (Usage vs Notifications)
 
-📁 Dataset
+Dataset
 The dataset used is:
 
 Screentime-App-Details.csv
 
 You can download the dataset from Kaggle:
 
-🔗 Daily Climate time series data - Kaggle
+🔗 [Daily Climate time series data - Kaggle](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
 
-👤 Author
-📌 Your Abdelruhman Elfekky
-📩 Contact: [LinkedIn](https://www.linkedin.com/in/abdelruhamanelfekky/) |[ GitHub](https://github.com/AbdelruhmanAshraf)
+ Author
+ Your Abdelruhman Elfekky
+ Contact: [LinkedIn](https://www.linkedin.com/in/abdelruhamanelfekky/) |[ GitHub](https://github.com/AbdelruhmanAshraf)
