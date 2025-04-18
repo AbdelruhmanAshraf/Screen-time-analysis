@@ -36,3 +36,4 @@ You can download the dataset from Kaggle:
  Author
  Your Abdelruhman Elfekky
  Contact: [LinkedIn](https://www.linkedin.com/in/abdelruhamanelfekky/) |[ GitHub](https://github.com/AbdelruhmanAshraf)
+ Email: abdelruhamanelfekky@gmail.com
