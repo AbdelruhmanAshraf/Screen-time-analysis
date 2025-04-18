@@ -29,9 +29,9 @@ The dataset used is:
 
 Screentime-App-Details.csv
 
-You can download the dataset from Kaggle:
+You can download the dataset from here:
 
-🔗 [Daily Climate time series data - Kaggle](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data)
+🔗 https://statso.io/screen-time-analysis-case-study/
 
  Author
  Your Abdelruhman Elfekky
