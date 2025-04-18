@@ -1,4 +1,4 @@
-# screen-time-analysis
+# Screen-time-analysis
 📱 Screentime App Usage Analysis
 This project performs an Exploratory Data Analysis (EDA) on a dataset that tracks mobile application usage over time. It visualizes how much time users spend on different apps, how often they open them, and how many notifications they receive. The analysis aims to uncover usage patterns and correlations between app engagement and user attention.
 
